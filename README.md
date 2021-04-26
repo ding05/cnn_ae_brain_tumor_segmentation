@@ -2,7 +2,7 @@
 
 The notebook applies segementation to the brain tumor dataset.
 
-Training for 10 epoches is for demonstration; some settings, such as the GPU usage, may not have been optimal.
+Training for 20 epoches is for demonstration; some settings, such as the GPU usage, may not have been optimal.
 
 ## Datset
 
