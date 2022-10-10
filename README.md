@@ -1,4 +1,4 @@
-# Convolutional Neural Network for Brain Tumor Segmentation
+# Convolutional Autoencoder for Brain Tumor Segmentation
 
 The notebook applies segementation to the brain tumor dataset.
 
